@@ -1,0 +1,11 @@
+{
+  "path": "ru-mag",
+  "code": "RU-MAG",
+  "name": "Magadan Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-magadan-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}

@@ -1,0 +1,2107 @@
+{
+ "country": "RU-MAG",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Magadan Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1ccb0ff676c45801428d2d3591c26fae4160726733eda3e325bd62dbcc0c98f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Magadan Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2015-03-02",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5831ae3d0495361d31b859bcf9bfddd5186c9d30f59c08f6e682b1fbf7957eab"
+    },
+    {
+     "from": "2015-03-06",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c94bc9b982c0bf6b925dfb90f89f77834518c9d9be74b35600a91a4001a0b0d6"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "caff91949ca7114691b21978a5b8e417111f58684a22ce212a492bf988386ab5"
+    },
+    {
+     "from": "2015-04-10",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "50764678243bccaa504ebbb3e834e103480d67dce00d16a929b5544dbdf616ce"
+    },
+    {
+     "from": "2015-04-14",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3a7f4fca938fbf3157aeafb1865f68aac8306ac0f2f14fecfa7355c7687bf8f3"
+    },
+    {
+     "from": "2015-05-06",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d1a82c5ae62d6c33c5dca7ab126f0eea510bcd5e0ac36def4eb54c6fd486c543"
+    },
+    {
+     "from": "2015-06-16",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b5274ac24b9832ac5e446b5f5d8b25fc985cbe6180cb6c84cbcf8604f1cbbcf6"
+    },
+    {
+     "from": "2015-06-23",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d3274a131d6b86fa19863863bc6cc31afbc02ee1c8210896f3631a7e1d93d61e"
+    },
+    {
+     "from": "2015-06-26",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e1409789bc0981ffffff79a7c065ca70883c282e53300917e97c653f8b0be285"
+    },
+    {
+     "from": "2015-10-09",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3c61932b3fc5f17738c472f2331159b7018b1b8514e59325fe1c91c61054a65c"
+    },
+    {
+     "from": "2015-10-14",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f97d137a6c08ac858e98755e893084ff56752d419aad3786b072ceb1eca92b9e"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "784efc5e2fd9546a57548e92d1359d728b31f9a8051df86c39a6327c87aab6ea"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6001e2e482227a3329ea4903725c4a3500415a52a2f6b13bea7c99a5c2e71093"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "47a5c3fd07f5d1f6dadd308f7217bb8ac4ec4c79ce50fef509c52a090c9817f3"
+    },
+    {
+     "from": "2015-12-15",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d16dd52b5b52850f7f6cd76c9602141ea27958c9e2bd367d7a60f7a211c81542"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "db6ab51b0764004c4af85d8d8c04331d14291e6715d913881b005dae6c3c1e28"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Magadan Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1b2bf85d3dfe39a8e9c06e790d3daed2a7df021eb0da153fa4350c236a1095b7"
+    },
+    {
+     "from": "2016-03-11",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c7a4fed9a9f36c58bfb7550c01ef5cd4a35ada37de8b6be2736d34a302c18347"
+    },
+    {
+     "from": "2016-03-25",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "41dc39b399a1f18806f3504b7d56699e359402bb108411080c755529bd201b7d"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8c27adb17122fdad7f019c24e0ce953b07806f72357093885572d9bbd21cf030"
+    },
+    {
+     "from": "2016-04-04",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1b0b6d4523ef396aeac478d06be6863887e786837f2e3e3c7668977f9f8ede70"
+    },
+    {
+     "from": "2016-04-06",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "977450b0a4573b5243bed3a64545a3c7477ecb4c40c955f6d4d1ce3d0a1542e7"
+    },
+    {
+     "from": "2016-05-30",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a5b4700577e98e9906bddf0a5d75b7f8808b1aea982b22b64d714865e73031fd"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ad865d3e52218dc4292c56c398d3a3cbb8089fef330b4ac87a7207146470c255"
+    },
+    {
+     "from": "2016-06-10",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7be894c611bd3e9283436029519cd4ea6fa2fd6e8ea13d06f8609e3df68560fc"
+    },
+    {
+     "from": "2016-07-06",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6f349c7ac8ef8b02c61da12995d3b36bf98b489adf79bb8efdc358fa7309e825"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "44d84f3c36fd7f9a8360e28cfaff8726e4a3f77eb39781b951999f31b9d27867"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "74bcc93b522e8aad9286e191a9c2b9227739cadbbfe1e93c0b7b8de4c040a011"
+    },
+    {
+     "from": "2016-10-27",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6791000305e5c6941fd4f30df2f41216e51af0eb4d143cacb3e5478420710b2f"
+    },
+    {
+     "from": "2016-10-28",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c12efbfa9f12ad440aa3a4585aa6e73ecaffff8420b276a58a8c611182b5a851"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6e83aa55ab66ae946eea224397c01b1201cf5e286fce7f436b9788bee3a16ce9"
+    },
+    {
+     "from": "2016-11-28",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f7924bfbf15691319b156de0a592b48a0517055097a1fa3e13f4158abcdd2e28"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e5156dbe4c07588efd8028ce6f0c96d9950cf9c828dcb5b1ce305f5ee29e22f5"
+    },
+    {
+     "from": "2016-12-05",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "16e4f587e4db6df71bb829b47b2c6d804624a4a8cda1c847c6ce827efbe06480"
+    },
+    {
+     "from": "2016-12-13",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5ddfe6deb4d1f3e10b6fbebbb898922f2e5e0842d5874d2d06b1090878c426e2"
+    },
+    {
+     "from": "2016-12-26",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "07b1dec07b6a41a34239b3d809c3eb727fc8949a82889b1a6b70855690307fe4"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "553637f9908f3e450473f2c12f677934e7ed997e2ded9ecd23c50dd6a2b3c7e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Magadan Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2017-02-22",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "39d734df5176ba76cda15eb826c04c36f369d178cc55e950bdf63e7662133af8"
+    },
+    {
+     "from": "2017-03-03",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3182cd35b300c2566414d86ca7a991d654e73da24e0d10d304051f9c9637dcb8"
+    },
+    {
+     "from": "2017-03-28",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "38ae6c992e37d872da91ac8fee4353af445b7e78a36beb5257b9d0e6a4e46a01"
+    },
+    {
+     "from": "2017-04-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "27ed9a362bea4fae1d0c2ee4de03c5dfb384e9f206e49fbb139884fc728e5b5a"
+    },
+    {
+     "from": "2017-04-24",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "41b1da9bd5fd642915f59d91073759275f30d9b517b3acd20c3817e233624c1c"
+    },
+    {
+     "from": "2017-04-28",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5a98f6acc02e39e193dbe2318313bdcb0b8cceb1f733deabbac5ad5e13eb992d"
+    },
+    {
+     "from": "2017-06-07",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f4750098acf99e892ff56d866a3104b77eb61b386fba1cd23d3076e567b43716"
+    },
+    {
+     "from": "2017-06-13",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e147179299028a7c0c39236e6f203408e0d02e94776582b804c03bbed6363f7d"
+    },
+    {
+     "from": "2017-06-14",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fe57c1e7dea7282ed23e2ab4c3f9ba3b47282d3f00eedacd22f5d6aff01170e9"
+    },
+    {
+     "from": "2017-06-15",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "21b35f3f85ef2cd9a3ee8711f505d0fb6deced32e4c5988f5231df0cb62e5cc6"
+    },
+    {
+     "from": "2017-07-26",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9f4deb4c6c550813cf5a305056021b54e1013b58b71dee89bd5220b65f0b7d96"
+    },
+    {
+     "from": "2017-07-27",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "801318173b9327c0f919460eae6492489ae8bbec52eb743156579f316482fd00"
+    },
+    {
+     "from": "2017-07-28",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c8f3cd2bffd7dec9ecc5518d1501d9aff5da5ace5b2352ec5ede39f8cca5b3d9"
+    },
+    {
+     "from": "2017-10-25",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "38b5fde6046cdd8a1a9afd2bd8a443d1f04b0fdcb6b59895848a1b25c47d323a"
+    },
+    {
+     "from": "2017-10-30",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a9fafeb9d3cc34af3a58da7b97b2069ccd5bc9872328b2af1e38a87de332ffd5"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f40f97e59bf55f8f4c83b0d74d0d56981c610754fa19a7f84ceac6fac2c7cc72"
+    },
+    {
+     "from": "2017-11-03",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "54ccc02dce3705e50327034fed8398b675f559e4576dd6f65abf68ff5be211b4"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ffb5c6b04bf5cbef3a5195531ab3ef5e1648ddbb9bba0ac6842b1a397b38086b"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0454e24dbd18f49c3e52c55e24ec170a1afb5051e564b997675d9fb0366a210c"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "bf2fd79d929812b751ab8c4b49013057585f51dab4e698bb286d9c42432995ad"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6ffd514d6528b36580dd691e708abbc455e8393e998be5f9437d6edbfd4fe417"
+    },
+    {
+     "from": "2017-12-27",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "07e3f3a0a9feaaa7a4350bc0572accb3114d7d837b145b6532c439796117e3b9"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a4012eda78725330ca5d048a628261300c8cf4c1c6af78c16be903cc3deb0bfc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Magadan Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ea8c4c73503d964053e3cb797ca52d152e221cbe793bd1cdc197a09d930abbbf"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e435f16105ae275c0f336bc09ae023ed7029fac30382eae6fc359131a6d7afc5"
+    },
+    {
+     "from": "2018-03-16",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e41b571223840c730594746c8f25c28404ceb3cf44c4637023092590dad5b443"
+    },
+    {
+     "from": "2018-03-20",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a7638c91d3b54bf83a05af24d4c03228c172d816fb80901dc9427ccbe706af83"
+    },
+    {
+     "from": "2018-03-21",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3f651314d4a6d8681976963a258889e70c3ece0d597f342f06d35df66659d1a8"
+    },
+    {
+     "from": "2018-05-03",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5129059d3c43e565ef5eb948a11b897df91813248cd903514cea18f3e6c1dd32"
+    },
+    {
+     "from": "2018-05-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ec31942cb9f1d5d59003e786a0f81176f45cbfc9246a445824e3141183330a2c"
+    },
+    {
+     "from": "2018-05-10",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0ca9eeab5020ee3844cf0a0256984577ef6716d95769e9b3080291c080091ec6"
+    },
+    {
+     "from": "2018-05-11",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8421b473e960b79309d4e2e72cd228cf8390dd6a2508c3da19ced2d2abbcf728"
+    },
+    {
+     "from": "2018-06-13",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "428487ae9d7aefac0bd11239153455b06b0a36028aa3080c4a8d8ae4f4f9d695"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5a100e03f6317ed423ad3d35c7b3786c8c05481e0ba6f12d4ac1614d27547e63"
+    },
+    {
+     "from": "2018-06-21",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b9b53df2bbb8a7b824a1dd2ddd251ecd99f96bee9e1d1f13562415eb96f3fde2"
+    },
+    {
+     "from": "2018-06-22",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "13149caf72eff1dd151af5051ee6bead3a55855181e3b410060d282d2fdbc552"
+    },
+    {
+     "from": "2018-07-13",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "901d650244adc9ce605490b1ce1972d3156f164211dd1cef91b30e37abd7c0f5"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c574b54bbfe00690682c0f60f91812297ec2de07b694aee66c561cd27c071f4d"
+    },
+    {
+     "from": "2018-07-23",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "40515ecdc468f1174ab47598d99779a12cfd4affd6a260f2caa0ae572be29055"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d3ad558459ac9c29367890b18ea3aae37734a1cb3700b0baaf2033e81356255d"
+    },
+    {
+     "from": "2018-10-02",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a64ea75c66ec8782e78b20ec11ac580b4165e705c9a634f22ea41e7a28025b46"
+    },
+    {
+     "from": "2018-10-03",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0fb424f03da78771948e71b6c899668199f4ed545305d8cddb9f9125ff6206c3"
+    },
+    {
+     "from": "2018-10-31",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7bcc45385c76e9f4aa910428614b2e705ae9991c5134b88bc6e436949e6eb90c"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "07bc07bc907e5990214c1d57a41060c02216b3b708cf927e2cf0d2a5c9ac9c79"
+    },
+    {
+     "from": "2018-11-06",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0d917ae2dc4296c81abd56c0d6482107b097db149c61c595d496a9dd55ba70b5"
+    },
+    {
+     "from": "2018-11-13",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "50e3bcd81b202950c98d46ab60d9f433c5dd26209a50589c01af4d9e45f3c33f"
+    },
+    {
+     "from": "2018-11-28",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9e9781ce3de86a423fdf4c96006fc0671ac52f4859fc17ee4180ef305bdf8939"
+    },
+    {
+     "from": "2018-11-29",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ffb4e63ad34d5d9dfaa493821f153c473ecf0b1977d60bf0f8a67a5b70cd7bb8"
+    },
+    {
+     "from": "2018-12-05",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0fd13467eb1bb0a9be0e0e00f228726c01c96fca6dbf24e2f1e40689e53cb619"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "92530c1c304c041e4e33b332ad48a08ae4f231ae6421758b688a01708eec1464"
+    },
+    {
+     "from": "2018-12-11",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "49092b79ea3ec9003eaee02495b1a40da531555cc3e2f94dcf5914b4265da2c2"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "82f13a15a9369feb6798c08d52c008033b7a1e579b387121e82d55a2611c08cf"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9bcb1dc03945818c01685febb256946014bac37474d1e5c07917f6453e0eed49"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Magadan Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2019-01-10",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "46602264f1c905fdcd874d1317bfd53cd275f89b12fe4417f8c3dd924d52387d"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "aa274500d64ac5593c1e2cfb23412fab90237d2334f7d063d8c5199456239936"
+    },
+    {
+     "from": "2019-03-19",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a5e7ab92031896ff88aadbc82b740dec041c61dc6bbba6ae2b10fab18614348e"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d58a029965151973f99124121af5c5396f10cde7fb230714f418256ab11431ed"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "65e1b19350e6be1e749a177d70311bb35fc23157ce550bc400d72083931a5bf1"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "710c26550b908df95e8a61fd3781d9bdb620e9c88ba2467bfedaf365511d2689"
+    },
+    {
+     "from": "2019-06-17",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0d0d750f16e22bb537efb61bf0b008a86b9aae11fcc184f4076aa611668a5904"
+    },
+    {
+     "from": "2019-07-02",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2777bae17f0c6037a2e840c2deda78b385a10f91e5b84e857b2cd62fbe1495b7"
+    },
+    {
+     "from": "2019-08-07",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f8c88bc746021d49a4ef92c02415f8dafea2237ffe64e454c0a6147cc55efd74"
+    },
+    {
+     "from": "2019-08-16",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "97cf91fa297b8183fc74ca02a21602f56b5a9bbb6bebb8d9c3a208374571db8e"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9ffeeafbfd3ca90b61b8f24aed426df23a922520994e102237cddbb37389d226"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fb1462f0fdebad21048f0e63c9e73126fd627f446b0430f3b19c5c09af43ee57"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7d7010d1f67340d878059126195871a692ca0f2f818b28a6df9862ba04610d9b"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e7ec1a129347321669c3a8990878a34e3f870d31d988b778be55435ddb1f84a8"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0c6ed057c2b0be8f7742d97805f5497ff9076775f4a1403a054197a8d3ba2bda"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c77f0d11a9c9a3bb0e16e4a031004f0869f39c27449c946c51c88eefe1500cd7"
+    },
+    {
+     "from": "2019-12-24",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f3b224c623c8e3db22497c383c73fcaaf388c56446b1d3da770de9511a11508d"
+    },
+    {
+     "from": "2019-12-25",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "418aeca4040aa78194b70da2ce67301c93a74b14de2e02cadb8cc83611336782"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "cf2dd1149f11faec2c8549c468e6d7619960ba0a4e37aacf66c9d3d7f9b46d33"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "526090b55bb6a09746455aef8f6b08c19e6cdd9ff9ecffe69245c5bd2d4377cf"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Magadan Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2f964559e554edd2d0488854b80461d3c18f7705ab98a16eddd86c9837782165"
+    },
+    {
+     "from": "2020-03-17",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c1e510bc57edd9544fb35f923d82370d7dd85bf4eb73619d6c91720c69247cc6"
+    },
+    {
+     "from": "2020-04-24",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "292ec69965a4ef237f85b59c7a89a27bdc6874671c3a14b9e776198ca0a609f2"
+    },
+    {
+     "from": "2020-04-29",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "11908a396e44606eb8d06b2340ede0119cc80101c931d8bb3e04584e888bdf0b"
+    },
+    {
+     "from": "2020-04-30",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f14d2f50266721c38d6e9c0f9509d156615488abe7a65ea4d82e82f7f38d12af"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3ce0728f9f7c13ab265e1d62cb363d22c5efab891a8192c053d1a9b50a82e7d7"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c7ca3be777e6c0355de4cbb16d4d305c29642ce755c8b66780e14a9239b9b685"
+    },
+    {
+     "from": "2020-06-19",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8ac176c0ee64a91e6eae3f4282fdf26ddad75c087fa0a08f6682ffff80f29e79"
+    },
+    {
+     "from": "2020-06-25",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "32b3eb5239787a27ce395f23c7423ccb492424dbbad37bf5ddafb861887cf763"
+    },
+    {
+     "from": "2020-07-21",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a2a3c08e3488c8ba05f5cc8de6951af5d8517ca877815c11f67d03777b112fa5"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "60a4c6dd86c332d1b36a9a61fe1fedc97700dd4d513fa2b232ca3feb79ad8aaa"
+    },
+    {
+     "from": "2020-07-29",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "353f72e1b249fb2754928c47ce2424fc6efaebb60747d82da82340cc075387cf"
+    },
+    {
+     "from": "2020-09-09",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6c03c76073785c3f22747ef92b13e17048b83d6b5c49b31343986d7d5d10f378"
+    },
+    {
+     "from": "2020-09-28",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "32db0dc20840a9a3b47f11a74aad776f71a1dd0f263536e152e82b55f272bc2b"
+    },
+    {
+     "from": "2020-11-20",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "49f781decbfb5f8ca8a12b9034848ba2fcfdaf093226e19c0a87fbab8241e42e"
+    },
+    {
+     "from": "2020-11-26",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8ab2a63c3ab7e7621e26ae8fd3fa527dcf6b9be2804fe2928e13ea8a8ee15ed0"
+    },
+    {
+     "from": "2020-11-27",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "087c9a0dbcab4fd50c2cd6f11fecd011ebfa4bb60a48757acd59fddd31518f73"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2219ecd54bbffc7d16b0d5af127c69211912a96a9729b462b4ca156f506eb774"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ba5d31c5f7fbc814a2a4862fac74a755d6ace3cd1f56a6106827344ad8a6ebc7"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b95657b18e89c9370f62b64688ab6df1d057915bccb90c46ef2be549d5eac52a"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "899d0f073f1950155ee6629fe1663965509575e5a54dd4ac61e4c3a9c942610c"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "af89d85fc6eaec71302be853ce6403c103d2a9c7612b5d4e5f245b4d5266d918"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "289beeb6a3e6590a48c1c0b31bbf94e41c8f75f851dc6d8afbe0af5239f85ae4"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c02968212d7cf42d7443ef1b1585f7d6fa06f07b0302126df03e343ae20b6fca"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "04a1a510772034be5ebff263c5b6c4744f8b1363ea6a64160c03bba715e47016"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Magadan Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c75fbe42adec5222c82466d36b97630019454fdce3adbabab8a9b50ce96c92fa"
+    },
+    {
+     "from": "2021-03-11",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "cb23c462a626d8e2050a734f45f75df3f2320c0eae0c4328b4069542f425d917"
+    },
+    {
+     "from": "2021-03-12",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "12c36732b91035c237c38b84cae79cc337f21e36ae78727ddc0d505d4746d6a7"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "64d8b48da648529d3d9dd8fd2a68c66eab2d38dc82b0dfae41311e404b75aa35"
+    },
+    {
+     "from": "2021-04-22",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "37c7d00d3f88c2896bf2b4a70bf989ff03607e27770107b88319054ef292e259"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "07295b07fba4a7df86c25ae0812af9228e6c7dc8e299a48714ec8b8c6fe14e17"
+    },
+    {
+     "from": "2021-04-27",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "882f26cfe21b89179103a9db015d85b85ea4309dc3fa2607acf9f2b0639fc11f"
+    },
+    {
+     "from": "2021-04-28",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "362ce8cb622d567dc3f321b973b736856601591bd0b58bea7050df7ddf666932"
+    },
+    {
+     "from": "2021-04-29",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "54514e4f55e43dbb3156d2c35c536be38f64c2119bd8ebaaefbc976fc9ff3a43"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "cb439b6ae29e7e8e5f8c8ba56b63fcd974b97c25bda3e1954037d5b33c56b722"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6ed437ebab608795874c3e9da61ada7bd4d38dcd017ff149d3df1df43a0f2cac"
+    },
+    {
+     "from": "2021-06-23",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "14d3077bd830a916b3263b82d1e3e8424ee45c7077d50e110e934786f078f3eb"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "84d306fb548d7e2c2a0c74f00932472945c04c34d1d9876595f0b5c1a8919149"
+    },
+    {
+     "from": "2021-06-25",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "979cab19e4df42cb81eb9b32397ce32e8f2e0c6bfcc74d24a0d3721f114e2d23"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f79896ba403f8e3dabf044c8dc66554da8d99851f48c2d3c4e381e54969088f7"
+    },
+    {
+     "from": "2021-07-20",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f3e93cfc029428f9100b1466032de6050299488c3d874819db0d70fe56473fbe"
+    },
+    {
+     "from": "2021-07-23",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fba2d92bd092c6dc264f8f55022b6b7ed577bbfc68f2bdc90375475d47969462"
+    },
+    {
+     "from": "2021-10-25",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f529bdd9242120ffe46a74160048864dd9ea3fee88d0bbf44e11a5474dfebde0"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c7e34ef4d5ff995364475ded7d9251fbd23ffe6fd11ed57fd3f265f387bb9aeb"
+    },
+    {
+     "from": "2021-11-02",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2d51d55793070d2917da2c0b82d3bd0536680ab158fbce0c9c615b6e800090b8"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8cd0badfea91e9aea6f7b73ac5c0bb2e5bd63a8783254b07d544b98db21afa1f"
+    },
+    {
+     "from": "2021-11-09",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2106602d634aed9efa0ba0550d11c8f230fe1c931e46c076ee04716fcf6e1d0a"
+    },
+    {
+     "from": "2021-11-24",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "38d3716ace671a22235abeec6d4fe5de7f851dc79241ef2d238bb889a4609f26"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c2660a62ab32a8943af4d75f0339070ae24d251068d4f86ebff2af463a6f6499"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4d95ab0c30a313dacb27b4bce71c48b3a6412d541f7bff7686a4c636f9654155"
+    },
+    {
+     "from": "2021-12-02",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4ce144f54a675714030e2303cfc6202f408b8c679ae291502ebef03b568e23cd"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4fe8d743e0503ff552d524798e64409c2e807c076c8dec222090a2bf15e82c92"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d26221ac44028bf5f6ecce16786317f5e8e8ab3d158862b0a58f4512be57d854"
+    },
+    {
+     "from": "2021-12-30",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "37140d0a6a87a4fa776893b7b8802a1efd211f0034f248309d29c303c9bb788b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Magadan Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8dcda35d067d9c131f79bb1198ca7583027b7eee26ff95062f20918fc0721649"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "de3a4b52157c21eace8d8739855ad6a6a9857ec55e1922f0e0a6ea35809f3242"
+    },
+    {
+     "from": "2022-03-02",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "aa5c464e3c23ea0d80659242d7be6c609be3ef9458de4a1f8f88e826bc895075"
+    },
+    {
+     "from": "2022-03-11",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e2195f3070aed362a0e20e735d04089a25afa991488e49e67b643d9678451c8c"
+    },
+    {
+     "from": "2022-03-15",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5ba1ca7a6e5876dab5c3a0bdd19dc073de2cd86b9bd94bde5648767dfaa442cd"
+    },
+    {
+     "from": "2022-04-22",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d160143cd9187d11e24a34d0ec07f84d46f52119c7ebb29f22f1dbd30d4f9ec2"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "70ce570e9aff049a7ee3688871c52071cc2085ed694bb5698365c9126adb8784"
+    },
+    {
+     "from": "2022-04-28",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "24f1fbdcc87a10706559a5e7d7bff53a37fb3456d6b3fb508f3302035f2c7d17"
+    },
+    {
+     "from": "2022-04-30",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5c9b4e19d5f840a3b448fc26759e1dc41bbbd6946c0ce1279538e3b8c2edfb0a"
+    },
+    {
+     "from": "2022-05-05",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "dbe0053b0765b725c8eaf736637ab24856a5ec60a9fba62c0e931d0a0c8c5152"
+    },
+    {
+     "from": "2022-05-23",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0e2ab7166666f8d94f9a39e67810ccaa02a43d8966b941815e8fb6ebaff3d322"
+    },
+    {
+     "from": "2022-05-27",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "78e5b45e3e605bd272a5588c1ca40411fe35243add26c6180ded6067741afc76"
+    },
+    {
+     "from": "2022-06-11",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "26f84a419ba22f20b88b97a8f747c3025b5a1d554c39b40c8453845fb6902be4"
+    },
+    {
+     "from": "2022-06-16",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "505d63a3928ca84f8d236e6766cde0d467542de0746f0e5074e04936424ffbed"
+    },
+    {
+     "from": "2022-06-17",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "786da8cc6f76e6502bf11130f72c77b351a15a01527e6016311a9031a03eb161"
+    },
+    {
+     "from": "2022-06-21",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "bbc80580da7c4fd6d75bb487ac75e2d3f76ce53c3cb063641e50dc52aa4c2b94"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a9c4ee8d1dac54f9d6c842ab5cda5548ad722f082c97e5fa060d296049c18cfe"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fe8d12e966f50ca3e50bf5c05451321be7d0891f3547ba40ece7ea4761701baf"
+    },
+    {
+     "from": "2022-08-02",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d496c4a4671de57b7c0e1d4057f1811d96e35928f315a223ba91779edb4df83d"
+    },
+    {
+     "from": "2022-08-03",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c06e0b248ee9358ea7cb8cef5e0da9c30eb30c066c035ab49f8fcbdccd831d30"
+    },
+    {
+     "from": "2022-08-04",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "78e797546b56e71ae57f88056ef9465fc3cd36ade5a91e381e3d0a7f66a158c8"
+    },
+    {
+     "from": "2022-08-09",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3e7742a995bde9cd3df65cf269d354263db87c7524d62e793d50ad2c47a4cdce"
+    },
+    {
+     "from": "2022-10-28",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3da00d0a98e0eff60be4cc83d58d742e2a4bd0a2ba3511cf26044f47988efc20"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "dcda805cc4bb6cfcd2aba9af000e4b1f7f872a9db13de2b3ce7a92e78b7b364c"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "16de5d3942ab71b50741cb964d589fbe2404e75aaba8b0e85066cff4d486c3d5"
+    },
+    {
+     "from": "2022-11-11",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0f5be6931d969a3254134386f086f38389afd0f527fafb5fb2c1a736bc2677ee"
+    },
+    {
+     "from": "2022-11-21",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f0127605308059ac3c7dfd327dbce0a072b2f89b6346c6a6d218df5c9ec79d58"
+    },
+    {
+     "from": "2022-11-23",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "896369e957178c3619d3164bf61a418d5680bb6e76804fcdf6cb7b7b725f85d1"
+    },
+    {
+     "from": "2022-11-24",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d1978fed2c12859593fefec00ed7a087b76b00875aac46d80b03d1aaf2b9b1d6"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8c16aeccb37144a6919fe73d8b00592f77d4df403ddf8369ba995030f7985d58"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "85e00be8fcb362f84652d9f0b9c93be04c5826410f0c758f3e19864900c7a499"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "232226151e0c750ec57310341e5ce010436146c96deb2bb8cb2306192d146bb6"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d8dcedd3468b1ff6624f006983fe9bed4df76242fdde4ce1a0519f4d3caf3a0f"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7bd3172cfb7f86bbd042244afa7f3ddd241aaf160711950b3e9ad8cffd788984"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "17e081b92151661452aeb0fd599da03effa59dcecd32f2c770d7fc0e7dff6fad"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "bcb59a9dfef06f323eb0b7a5d027f6697a5f50520e5eafa5bce9cd6f1b7e2b2d"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "eb17805350377b67d26945df22f1ba223e278200bd44e16f3981f587a9e3dc6c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Magadan Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "11d9f77191f16070f61e891a8cab5c45c163d6f4271d850ce5552fbd4d3c7b50"
+    },
+    {
+     "from": "2023-03-09",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "34f25601afb6e1de16c6bbc70f9f86f099bc8dddfc7372f078b24fd33445c315"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d74da1850124e95897f85e4c6f942fc0c43800854b48a83306f75b7a65a8ab59"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "92b40b4a28232e633de712604280c6cc4777bffb566d99f99a56ab9e7518e4dd"
+    },
+    {
+     "from": "2023-03-21",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1b2758cd1674b7c83cb632e3f5e6df6960b19006c808aebc3f272af1927ec10b"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e231005b4f10ddcfa897895e925d207551f337dd0fcd79e1ac4b8be4ce7eb4b6"
+    },
+    {
+     "from": "2023-04-21",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e82dcdc702751e75f852b6567a2a829b2285e07f9c741d52998f279870fc769c"
+    },
+    {
+     "from": "2023-04-25",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "016c95db62f9552d8b75544708bca07d8ee0aa6bdcb113dafbfe23f795dc62c5"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "10f61dae482c769d19c9b788183025ead251fe106ba3680598fb8eab6f76e5da"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4238e1b659de291d93987f8d04ecb510de2f8ddbf6fe5a79ed016b5d6bbf6166"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6db9d257c99fe687ec00302f46152d29eb68bd60c4a90f58d47ed178954cfc03"
+    },
+    {
+     "from": "2023-06-13",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "51625aae04eda05dcd101a58dad63d3374edf3f9b1aebf9af5b2974d43e69cb4"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3ab05dae414da3cf1a2bda27e3e606134094fc86190c788eed01ab219a6278c2"
+    },
+    {
+     "from": "2023-06-15",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "bed162ff24f3b98741814ed77ea87cc9d71223a7285c5630fd5f86eaed39dcf2"
+    },
+    {
+     "from": "2023-08-02",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "02f6a13466f7773bd82d8d29951f469ead93b21d468102c39f891dd1c99a3bb8"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b86b84e6d90e658241956b3adf3bf23fadb48f193e60b4e61853e91785a477b9"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "31418da1426efdee5d717b62eb57d6840e7339f366554ff54e8109f90e3be02c"
+    },
+    {
+     "from": "2023-08-07",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ed656ba92bbc05288a2f7247eab5a48bc8238bf5e95f9f20fd49cbbd001fd8fa"
+    },
+    {
+     "from": "2023-08-14",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e0ec631edbf890a4067dfa735014a2b88f2d9fd1300854675ee23c8190a522d4"
+    },
+    {
+     "from": "2023-08-15",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5216b742cc8f03c719adb22be0a8195e9e4b398882268bde569fabe84c9d5c6a"
+    },
+    {
+     "from": "2023-10-30",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "61033934e1cff50b9018dc6a5793f65ce18cbf757af1255a2307c3cf557513ed"
+    },
+    {
+     "from": "2023-10-31",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "91b5da23eae12812a3969ebb927845df7c0c42a6a6dec2492208ea2eb0c289a5"
+    },
+    {
+     "from": "2023-11-08",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0d061fba300e3e2c632027e227a292a314dabf6f7f92aaaead1407264ab0d9af"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "407da2ba9aaff7aebb268c39344ae21ba78f034d8c28946f67b4daa01eec5a73"
+    },
+    {
+     "from": "2023-11-14",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a894db7fbf2433e978f0b9ca2cf7d10b3a345378713fa4816f1c5570cc886296"
+    },
+    {
+     "from": "2023-11-15",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "bb6f4157b6acc6c1195e746b789177f319bd00fdbd60828d0733652c9b08a80d"
+    },
+    {
+     "from": "2023-11-17",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "52b392ed036eb6a85f7ad26d0e72887a4252d31239f336ef10cb866452209068"
+    },
+    {
+     "from": "2023-11-23",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "cfdda469da5b49dd65bed871dd6996c33e07e8f4fbfc7e11c41bb25ae64d39f2"
+    },
+    {
+     "from": "2023-11-27",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "207e3181d613aea06ff1486d317bc873d557df728344a7df0cf05276a8d85797"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7e8bfd166ebedf687b350f1ad89c98b460112ab58f3a48f8394b613955863aa0"
+    },
+    {
+     "from": "2023-12-12",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2b9da302f442fc4a6bb39ab3317b574a5f773f0da532e7137fe7849ce248c6ef"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8ab3e8bbafa1ec06b5d12b3829b3a795363432c86157114ff56e4978b048d812"
+    },
+    {
+     "from": "2023-12-28",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2673f305f2a11d1c841b22c2e3f8fade84d9b5cbe608405c53f359b509231a5e"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c21a9e1c21ed171e12511eeddb9a8efb2111055853fe4a4a8f25a0d33f1abea5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Magadan Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "00a5785662e24f26214d7decc7be7b0702b45b3464c11e01f45befd954352df8"
+    },
+    {
+     "from": "2024-03-18",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a707b433ce5e7508070c32a26d29691606311c5260d9da2732d63635f6777838"
+    },
+    {
+     "from": "2024-03-21",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ebcd6146339f97b793880d48fb18bb89684bfd307da8c1d86c03985687efa9b0"
+    },
+    {
+     "from": "2024-03-27",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "51dcf8269088955eebb0602c140d1ad4cb5d963d3f10ec048f818d7bb6ac26f3"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4a09644a3df7fdbbd0c943072126e6a2e04f64d686b5b57d89523276ba77d912"
+    },
+    {
+     "from": "2024-04-23",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "79bb2914d6f553975f3d443d752a03932a51275b1d8c85da50609c9cf3a37787"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f6cdcba119ba4d442d29de8d240e18bd60030427a1aa66bbaf60ad270366b7db"
+    },
+    {
+     "from": "2024-04-26",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5fa6a97de0d0a56e6d598680dce2581026c117fa4d4ecf2220f698a176931bd3"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0055ae0a521bb8ff7373413e89fc54058fb7351c6b70e97eed2b2aaeaadc2253"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e9c23418ba2ad6554c183bc263549d0988f2de64cb69bbece332abc08d94b530"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b6fa5f2826c4f01b7109dafda5c4992d7bce7f573cccdaeedd211256eb4dd8bd"
+    },
+    {
+     "from": "2024-06-17",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a932ace794590db50f8a55589fdf488084a80ae5971698467e2559be902461ca"
+    },
+    {
+     "from": "2024-06-18",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3a4966015426dd0ef02e247f64ed114383c5d1343549fa301144c34ffb43448a"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5f64b0f5e85846ae803fd5e45e454743c84aedb1bc46f975d31f44f90f77eba5"
+    },
+    {
+     "from": "2024-06-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2f97e96272cb986d86030a68ff9283b64813b2d0f727975842842debd5bb96e4"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "50feeecbacfd7d2465c8efc956458aa63d5fd8e155115aa5503ae57745f5e078"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4cd4c1e160b201cc878cbf02fafb87758f6bd211c543eeff65f26f827f2f6efb"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1afe080115d0f1ef9f4b49b4294f0f5163d6971939fbb0b270a65b6dc47b225e"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "52ebea870a58051ff50bd6df236a4e56e40890e8a649b3865dfe0873323175dc"
+    },
+    {
+     "from": "2024-08-07",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b4cd16ae3e035b40ed8f25771404703f5f89b6712a7a2c680258e528ccc0ff48"
+    },
+    {
+     "from": "2024-08-08",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "4382a2f6d2bce936c373680118f4dd0602fa69335175fee959e1dd352c2b996f"
+    },
+    {
+     "from": "2024-08-09",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a21e66216a1a1223ce0c557fac0e851aa84fc7941dfd8458843cd627a31ed8d2"
+    },
+    {
+     "from": "2024-10-30",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "01cfcba460bfd3cd932a4ff8a2ed50158ecb20e9895015dc3f0fc9fe353b7fe7"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ae68d745685e85a64f5105313cb09968960b3532e0e5f40e0c645949e56e903f"
+    },
+    {
+     "from": "2024-11-07",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "c08419aa7b1d2accb0f05f74b93b2ae9fca356af0cc543815fb1d7e3b238bd37"
+    },
+    {
+     "from": "2024-11-11",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "83dcdcf6ac12417cc93907828db4de406ca10460b14b17c246488f10f38cd822"
+    },
+    {
+     "from": "2024-11-26",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5d5d846cf5e94b5b97abd8acded6bce3583d3b58241372f0dd17044869f4b413"
+    },
+    {
+     "from": "2024-11-28",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fe965979484926f90cec7348da4b79cfd4e4c86721248c7957d5644d8941a976"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d2ee7bc4eb9874db6fb57c7b0cd5725b9901a7749f14bf332b5a8c4f0db59c69"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "ac20c7a216d1ae79db4f9bfd141cbb0ee7dc7a542b5ea76d76985f0c522cc9fc"
+    },
+    {
+     "from": "2024-12-10",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9a22b9702f711447038a08f6c160909d73adb1a8e75753e7e58a2533fd54e344"
+    },
+    {
+     "from": "2024-12-20",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "44d717507c5b2871d52e0c72a66a96093c7af545e0fe616add61bef5f9bbf213"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5a8cffa4d98e820600389834080cd88777711c80190a0c69bccf6105b9f7481c"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "398a2e5cdcae4c51ef4b87d04c67af02d87804267bc7ddf419f31641659f721e"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a31ff9e100403134ccb6e0c3634ffa017b2c63756fff9fd613a0f9b1040c120c"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "09efdb4acfa82bca630d4ae705d105f8e65c6d70fe8cd9daf80ebbea65f8f6bb"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Magadan Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d3e658fcb453f03cd7a3f8e891361bb602b59bde73123ad7fcef4b2ad9ef1a68"
+    },
+    {
+     "from": "2025-03-06",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "85739a8226066aba8023d196e8aa2d4f50e1d64eabfa51d7d96414b17ec9de7c"
+    },
+    {
+     "from": "2025-03-10",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "71ba4585a26addf42197424efa02ded28e7176fec6be186dd17bd5f7f91d8e49"
+    },
+    {
+     "from": "2025-03-12",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "264632563ecf95137ad5aab6feb6772df4bb4d59afd66f9205331759e7aebdf6"
+    },
+    {
+     "from": "2025-03-13",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b7baa61256985eee44b8809a36d9170610da27f426fb790246fd9bfa46dfddf5"
+    },
+    {
+     "from": "2025-03-14",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "074eb4ec41e1f9b68597cdc2824e30e10b626a7752ff77da518ad4d06bb456d6"
+    },
+    {
+     "from": "2025-03-17",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "95e915cd58c0d6ad0c5554ac414a6ac4b76febcdcbb97630927fa1faf2a2f0d6"
+    },
+    {
+     "from": "2025-05-07",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b07df3dd90fcccd6c94ebc3a6854466ac5939071da0840b494bbd4353e02e460"
+    },
+    {
+     "from": "2025-05-12",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5c11ff9e3b8587505299521762d61455dbfc30b2f0a21235fd021e8c9252514d"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5dd490bd7b7cd9dafd347ae576534b78cb67c573ba55ddf338b7f7bfbdc83034"
+    },
+    {
+     "from": "2025-06-11",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "fd14745b20a0e28f4b257cffc622d54f3e7b9f0f15a78ae2b9353420b870c658"
+    },
+    {
+     "from": "2025-06-17",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5750b352a5183eeb797ed464d6f519b1d613f4a78e18f9f4ad1953d9e384f142"
+    },
+    {
+     "from": "2025-06-18",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "af49a098c7c7024cab348d53ad80f11fe6ba151e7ed08e91b25f71b0b5e4d435"
+    },
+    {
+     "from": "2025-06-19",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "267ddd48349752257b9ce2762fa6c69edea786a3e8278952fcc15f6ebc835890"
+    },
+    {
+     "from": "2025-06-20",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "83b39028d735c8cdfeb13a0bfebb587ad4f62b2bfdc482b040de0db76a1a2972"
+    },
+    {
+     "from": "2025-06-23",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "743f418220b504bbe2c3691e654791e6a85db80763eb7c169b979c2da7226b43"
+    },
+    {
+     "from": "2025-06-24",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "6575f27aa3770551eb546bf67fad4a75ea4c2c04f96514a41235251f9ff445df"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3982dcb47c2a53c7e4e4f5c65d0ae9da77cb3be1e84b2a158a84e96defd23515"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "709b7248cedae8cedcd3bbee9ee6583167c65683b194ffa953b284b63399bc6e"
+    },
+    {
+     "from": "2025-10-27",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a4ae15b81b2cc1a0ed715bd1d5801eb79ff601e1d2b20e79a646b9b259ebdac6"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2c9d85de15310b6130394c0fa28e0c9c8162ebf94b6e4391ee85e21a0172c175"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "0cdf3fe81cdb2c06fec5903ea059cc97230a91079acfbf9b37a99a89a5f62c14"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e1f3f9882690f92e5ba4515bc6174a8b23f6e6cef67d39df4263cd2724e92b89"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1e2a1eac95ad79a8523b95d81e247436411ec539aa460b5113d22020bb8bf59a"
+    },
+    {
+     "from": "2025-11-14",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d9e86666cc3e77f6a576ceb3813f44d31e0b81cab427369575812fe02dc918fe"
+    },
+    {
+     "from": "2025-11-26",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "dff5db54af46e2e5b5118828a820ccc85aefa8ed9d8ffa745b7124ef3de0dc88"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a90c259c1ec357592e6a06e36ce8bdb2c2e758da0de782206985cb0aea3596aa"
+    },
+    {
+     "from": "2025-12-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b0724a2b27c8603c91311a52f48a3e133bbc2a2b9649d57f304bb2e78d2b5194"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "70328c7a62f0df709d0438c14d092ad8e1265c0a516438bf753c6730745c1b1e"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "54334a637097e069e17c18a2cc162cb21e5a1a42ae677995eccdd684369e4d11"
+    },
+    {
+     "from": "2025-12-26",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5a2c2b6a425e33c409f0404d5b1c491cdab8add7f10753224b39bd3cd3836003"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Magadan Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "eb0d0a895d20f070807d264dbcd15785451b03e0f9564ffdd31122bcf5d50d6c"
+    },
+    {
+     "from": "2026-01-19",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1e5ad217d7a274b2468fa2880edd50b2ec3d3c9a9a785a12a5e94353e49e6f27"
+    },
+    {
+     "from": "2026-02-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e12ed31131a20c966c4eca0900591238a855447026311539fbeeec093cd8737c"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "410d4481146c9c759a363984a3782b8cab76c52c545dc8a5aace121ca87eb14f"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "3dd474af429602569e683ef8af4ff3edf437fec0e342d2183e457a0f8acc027f"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "e4edc6e146d433c8b5790f0b7e4090639a42a4f3a2c17bd5acd98b3c432ab999"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f023411d73fec188b59e2ac8ce6fc3617b4d29a9701b8f58759e6896b49bfb4d"
+    },
+    {
+     "from": "2026-03-20",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "d0aa827e691003bb50c596bada1ffa1a05aca68c5c94d8f232f382fdc5d5c9f9"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5d10c3de3aef0af6f53d5eb4e8f732abbd44026a6baa616ec27d1eba479bff8a"
+    },
+    {
+     "from": "2026-03-24",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "32e6e143343b93cdeb764702d2476c4087e6519b008729fbd119f540bfd13eaf"
+    },
+    {
+     "from": "2026-04-24",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "67b408854b262ca2431f1ffc42022e734706d6a68364cb6d406bb020d7b0fff4"
+    },
+    {
+     "from": "2026-04-27",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "699111417911d7d196ed8be296ed4ed51285fabfd623f7c6e76b8a391fd9db14"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "acc0073d702de4e37270e55f69e7725e912cab2fd77cce656ad1807a8c7e134a"
+    },
+    {
+     "from": "2026-04-30",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7d820dbb568787deab7c3e33632c6a94d5a057d2da66faae24abef130489e0e9"
+    },
+    {
+     "from": "2026-05-04",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7b6ca319698a710aa6099ba7de0c663bc144b2a02950968bf6275fd1b74e955b"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "364407f62644c54668f57fb8edfa288c5c0df393c115224df0173a66f6617430"
+    },
+    {
+     "from": "2026-06-15",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "a1dd074bd7b635a8daba56a1ccf3d7d90685ef085c88ab1f61faf663e5c278c9"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "7911ccdb3fca916b8ac80b6792cf7ee00a749e858dc7ef23d96a3d1bce544328"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "028632aea81fb4709d3d746947e3ed5b45ef38b3cc4d7178496b73dc381e6c22"
+    },
+    {
+     "from": "2026-06-23",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "72fad154f137eba21251051c7903dd0cd551aeb37af50880a4e70337b7919266"
+    },
+    {
+     "from": "2026-06-24",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "1f536503b171b5902d940a55b9531fcf2f4158e55410be80091bfacddada71ea"
+    },
+    {
+     "from": "2026-06-25",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b2f6b1f3353a52c59bdf50f2079d86870b127a9dace27816d2d961ef5d891967"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "9e8c2530b8f351e8fde8822b14a1c69909ab01545b0b399982dde6ba6f1223d6"
+    },
+    {
+     "from": "2026-07-23",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "8177a354949f2e5958d0b448c2ac64e2b1784e0087ccb0903fe870e80e8ee0bb"
+    },
+    {
+     "from": "2026-07-29",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "67d77ae48c83962a757c6a47a48ac098a8de82a706caea9895b3af0ccef614c3"
+    },
+    {
+     "from": "2026-07-30",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "2840078768e665712411dcb000b2fdb58e962d518d92f4e39c2074dd120090e0"
+    },
+    {
+     "from": "2026-08-05",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "5bbc6e6bb0feb077df3988d3c02b360a83b7dd3a714c91067a67bcfb33dcbb61"
+    },
+    {
+     "from": "2026-10-23",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "582c904017667c94751e89cb6573c41635424ed47a484a7737740c6b4467c797"
+    },
+    {
+     "from": "2026-10-27",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "b6985d46b593a98d2e5abf82c397b7ebf28b3f194ed1968d4860f14ebed937c5"
+    },
+    {
+     "from": "2026-10-28",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region49",
+     "sha256": "f7ff56803733ee2b87d3658c286f4cd3cda4c79bfd8950f2fa278e5ac155b8e5"
+    }
+   ]
+  }
+ ]
+}
