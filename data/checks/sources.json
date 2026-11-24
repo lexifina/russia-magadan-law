@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-magadan",
+   "kind": "legislation",
+   "name": {
+    "en": "Magadan Oblast: Official Internet Portal of Legal Information (region49)",
+    "ru": "Magadan Oblast: Официальный интернет-портал правовой информации (region49)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region49",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/magadan/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-magadan-law",
+   "group": "pravo",
+   "tz": "Asia/Magadan"
+  }
+ ]
+}
