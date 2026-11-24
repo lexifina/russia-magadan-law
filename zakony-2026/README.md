@@ -1,6 +1,6 @@
 # Magadan Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 30 versions, from 2026-01-15 (latest in force: 2026-10-28) · <http://publication.pravo.gov.ru/documents/block/region49>
+Законы 2026 · 34 versions, from 2026-01-15 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region49>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -74,3 +74,13 @@
 | Закон № 3127-ОЗ | [3127-oz.md](3127-oz.md) | 1 | 2026-10-27 |
 | Закон № 3128-ОЗ | [3128-oz.md](3128-oz.md) | 1 | 2026-10-28 |
 | Закон № 3129-ОЗ | [3129-oz.md](3129-oz.md) | 1 | 2026-10-28 |
+| Закон № 3130-ОЗ | [3130-oz.md](3130-oz.md) | 1 | 2026-11-03 |
+| Закон № 3131-ОЗ | [3131-oz.md](3131-oz.md) | 1 | 2026-11-03 |
+| Закон № 3132-ОЗ | [3132-oz.md](3132-oz.md) | 1 | 2026-11-03 |
+| Закон № 3133-ОЗ | [3133-oz.md](3133-oz.md) | 1 | 2026-11-03 |
+| Закон № 3134-ОЗ | [3134-oz.md](3134-oz.md) | 1 | 2026-11-05 |
+| Закон № 3135-ОЗ | [3135-oz.md](3135-oz.md) | 1 | 2026-11-06 |
+| Закон № 3136-ОЗ | [3136-oz.md](3136-oz.md) | 1 | 2026-11-06 |
+| Закон № 3137-ОЗ | [3137-oz.md](3137-oz.md) | 1 | 2026-11-06 |
+| Закон № 3138-ОЗ | [3138-oz.md](3138-oz.md) | 1 | 2026-11-10 |
+| Закон № 3139-ОЗ | [3139-oz.md](3139-oz.md) | 1 | 2026-11-10 |
