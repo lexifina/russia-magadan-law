@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:00:50Z",
+ "generated": "2026-11-26T06:17:53Z",
  "latest": {
   "pravo-magadan|russia/magadan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1306,
     "source_in_scope": 1306
    },
-   "check_id": "ru-pravo-magadan-20261125T061524Z",
+   "check_id": "ru-pravo-magadan-20261126T054124Z",
    "commits": null,
    "corpus": "russia/magadan/acts",
    "error": null,
-   "finished": "2026-11-25T06:16:12Z",
+   "finished": "2026-11-26T05:42:04Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region49: 1306 law-type documents listed (every page read); 1306 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1306 law-type documents in block region49; newest published 2026-11-10",
    "source": "pravo-magadan",
-   "started": "2026-11-25T06:15:24Z",
+   "started": "2026-11-26T05:41:24Z",
    "unexplained": 0,
    "update": {
     "parts": []
