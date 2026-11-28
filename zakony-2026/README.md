@@ -1,6 +1,6 @@
 # Magadan Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 35 versions, from 2026-01-15 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region49>
+Законы 2026 · 36 versions, from 2026-01-15 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region49>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -85,3 +85,4 @@
 | Закон № 3138-ОЗ | [3138-oz.md](3138-oz.md) | 1 | 2026-11-10 |
 | Закон № 3139-ОЗ | [3139-oz.md](3139-oz.md) | 1 | 2026-11-10 |
 | Закон № 3140-ОЗ | [3140-oz.md](3140-oz.md) | 1 | 2026-11-26 |
+| Закон № 3141-ОЗ | [3141-oz.md](3141-oz.md) | 1 | 2026-11-27 |
