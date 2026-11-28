@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:10:10Z",
+ "generated": "2026-11-28T06:24:30Z",
  "latest": {
   "pravo-magadan|russia/magadan/acts": {
    "attempt": 1,
@@ -12,31 +12,31 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1307,
-    "current": 1306,
+    "checked": 1308,
+    "current": 1307,
     "gone": 0,
-    "held": 1306,
-    "newest_in_repo": "2026-11-10",
+    "held": 1307,
+    "newest_in_repo": "2026-11-26",
     "pending": 1,
-    "repo": 1306,
-    "source_in_scope": 1307
+    "repo": 1307,
+    "source_in_scope": 1308
    },
-   "check_id": "ru-pravo-magadan-20261127T053701Z",
+   "check_id": "ru-pravo-magadan-20261128T054438Z",
    "commits": {
     "count": 2,
-    "from": "99208e71701af3fee166ac423fc8495d3a73f48e",
-    "to": "fbd1828b705ea5902fc9a5abeabdb338c5bce91f"
+    "from": "b1448a4ef03a708f09798deed93fe58a88117ccc",
+    "to": "a55a1a0c93633af7e705effc76a63b8917d7d06a"
    },
    "corpus": "russia/magadan/acts",
    "error": null,
-   "finished": "2026-11-27T05:37:49Z",
+   "finished": "2026-11-28T05:45:24Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region49: 1307 law-type documents listed (every page read); 1306 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "note": "publication.pravo.gov.ru, block region49: 1308 law-type documents listed (every page read); 1307 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
    "outcome": "changed",
    "published": {
     "added": [
-     "4900202611260006"
+     "4900202611270002"
     ],
     "changed": [],
     "removed": []
@@ -46,14 +46,14 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "4900202611260006"
+     "4900202611270002"
     ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1307 law-type documents in block region49; newest published 2026-11-26",
+   "snapshot": "1308 law-type documents in block region49; newest published 2026-11-27",
    "source": "pravo-magadan",
-   "started": "2026-11-27T05:37:01Z",
+   "started": "2026-11-28T05:44:38Z",
    "unexplained": 0,
    "update": {
     "append": {
@@ -65,7 +65,7 @@
      "new_acts": []
     },
     "parts": [
-     "95-watch-20261127-001.json"
+     "95-watch-20261128-001.json"
     ]
    },
    "verify": {
@@ -75,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 338,
+    "versions_checked": 339,
     "versions_differ": 0
    }
   }
